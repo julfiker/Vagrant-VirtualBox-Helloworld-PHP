@@ -1,0 +1,4 @@
+[Wed Mar 16 06:21:58.545778 2016] [:error] [pid 1797] [client 10.0.2.2:39818] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/vagrant/app/index.php on line 6
+[Wed Mar 16 06:22:00.828356 2016] [:error] [pid 1794] [client 10.0.2.2:39819] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/vagrant/app/index.php on line 6
+[Wed Mar 16 06:22:12.324688 2016] [:error] [pid 1801] [client 10.0.2.2:39821] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/vagrant/app/index.php on line 6
+[Wed Mar 16 06:22:24.398532 2016] [:error] [pid 1798] [client 10.0.2.2:39822] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/vagrant/app/index.php on line 6

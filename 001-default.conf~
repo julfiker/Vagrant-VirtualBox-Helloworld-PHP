@@ -1,0 +1,15 @@
+<VirtualHost *:80>
+  ServerAdmin webmaster@localhost
+  DocumentRoot /home/vagrant/app
+  SuexecUserGroup vagrant vagrant
+
+  ErrorLog  /home/vagrant/app/log/error.log
+  CustomLog /home/vagrant/app/log/access.log combined
+
+  <Directory /home/vagrant/app>
+    Options Indexes FollowSymLinks
+    AllowOverride None
+    Require all granted
+  </Directory>
+</VirtualHost>
+
