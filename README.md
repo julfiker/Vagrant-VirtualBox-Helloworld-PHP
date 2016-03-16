@@ -31,6 +31,7 @@ $ vagrant up
 
 ## Step 3: Access the project through http
 open browser, then access url
+
 http://127.0.0.1:8000
 
 It will show "Hello world!!";
@@ -38,15 +39,18 @@ It will show "Hello world!!";
 
 ## Step 4: Optional, You can apply other vagrant command as you need
 After changing anything to need to update deployment file system, then run
+
 $ vagrant provision
 
 If you want to restart vm, then run
+
 $ vagrant reload
 
 If you want to access through ssh into the Virtual machine and want to review deploymented code, then run
 $ vagrant ssh
 
 If you want to shudown vm and shutdown of all process of vagrant, then run
+
 $ vagrant destroy
 
 
