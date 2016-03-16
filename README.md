@@ -40,7 +40,7 @@ It will show "Hello world!!";
 
 
 ## Step 4: Optional, You can apply other vagrant command as you need
-After changing anything to need to update deployment file system, then run
+After changing anything if you need to update deployment file system, then run
 
 $ vagrant provision
 
