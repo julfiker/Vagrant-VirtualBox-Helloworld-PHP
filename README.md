@@ -1,5 +1,5 @@
 # PHP app deployment using Vagrant and Virtualbox on Ubuntu 14.04 LTS
-Vagrant is an open source tool for building a complete virtual development environment. Very often, a test environment is required for testing the latest release and new tools. Also, it reduces the time spent in re-building your OS. By default, vagrant uses virtualbox for managing the Virtualization. Vagrant acts as the central configuration for managing/deploying multiple reproducible virtual environments with the same configuration.
+Vagrant is an open source tool for building a complete virtual development environment. Very often, a test environment is required for testing the latest release and new tools. Also, it reduces the time spent in re-building your OS. By default, vagrant uses virtualbox for managing the Virtualization. Vagrant acts as the central configuration for managing or deploying multiple reproducible virtual environments with the same configuration.
 
 If you want to know abuot vagrant and virtualbox, Please visit following url
 https://www.vagrantup.com/
